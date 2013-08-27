@@ -1,0 +1,111 @@
+[submodule "cookbooks/horizon"]
+	path = cookbooks/horizon
+	url = https://github.com/rcbops-cookbooks/horizon.git
+[submodule "cookbooks/nova"]
+	path = cookbooks/nova
+	url = https://github.com/rcbops-cookbooks/nova.git
+[submodule "cookbooks/keystone"]
+	path = cookbooks/keystone
+	url = https://github.com/rcbops-cookbooks/keystone.git
+[submodule "cookbooks/rabbitmq-openstack"]
+	path = cookbooks/rabbitmq-openstack
+	url = https://github.com/rcbops-cookbooks/rabbitmq-openstack.git
+[submodule "cookbooks/openstack-monitoring"]
+	path = cookbooks/openstack-monitoring
+	url = https://github.com/rcbops-cookbooks/openstack-monitoring.git
+[submodule "cookbooks/openstack-logging"]
+	path = cookbooks/openstack-logging
+	url = https://github.com/rcbops-cookbooks/openstack-logging.git
+[submodule "cookbooks/nova-network"]
+	path = cookbooks/nova-network
+	url = https://github.com/rcbops-cookbooks/nova-network.git
+[submodule "cookbooks/mysql-openstack"]
+	path = cookbooks/mysql-openstack
+	url = https://github.com/rcbops-cookbooks/mysql-openstack.git
+[submodule "cookbooks/modules"]
+	path = cookbooks/modules
+	url = https://github.com/rcbops-cookbooks/modules.git
+[submodule "cookbooks/glance"]
+	path = cookbooks/glance
+	url = https://github.com/rcbops-cookbooks/glance.git
+[submodule "cookbooks/cinder"]
+	path = cookbooks/cinder
+	url = https://github.com/rcbops-cookbooks/cinder.git
+[submodule "cookbooks/ceilometer"]
+	path = cookbooks/ceilometer
+	url = https://github.com/rcbops-cookbooks/ceilometer.git
+[submodule "cookbooks/swift-private-cloud"]
+	path = cookbooks/swift-private-cloud
+	url = https://github.com/rcbops-cookbooks/swift-private-cloud.git
+[submodule "cookbooks/swift-lite"]
+	path = cookbooks/swift-lite
+	url = https://github.com/rcbops-cookbooks/swift-lite.git
+[submodule "cookbooks/rabbitmq"]
+	path = cookbooks/rabbitmq
+	url = https://github.com/rcbops-cookbooks/rabbitmq.git
+[submodule "cookbooks/haproxy"]
+	path = cookbooks/haproxy
+	url = https://github.com/rcbops-cookbooks/haproxy.git
+[submodule "cookbooks/graphite"]
+	path = cookbooks/graphite
+	url = https://github.com/rcbops-cookbooks/graphite.git
+[submodule "cookbooks/exerstack"]
+	path = cookbooks/exerstack
+	url = https://github.com/rcbops-cookbooks/exerstack.git
+[submodule "cookbooks/dsh"]
+	path = cookbooks/dsh
+	url = https://github.com/rcbops-cookbooks/dsh.git
+[submodule "cookbooks/rsyslog"]
+	path = cookbooks/rsyslog
+	url = https://github.com/rcbops-cookbooks/rsyslog.git
+[submodule "cookbooks/collectd"]
+	path = cookbooks/collectd
+	url = https://github.com/rcbops-cookbooks/collectd.git
+[submodule "cookbooks/collectd-graphite"]
+	path = cookbooks/collectd-graphite
+	url = https://github.com/rcbops-cookbooks/collectd-graphite.git
+[submodule "cookbooks/collectd-plugins"]
+	path = cookbooks/collectd-plugins
+	url = https://github.com/rcbops-cookbooks/collectd-plugins.git
+[submodule "cookbooks/hardware"]
+	path = cookbooks/hardware
+	url = https://github.com/rcbops-cookbooks/hardware.git
+[submodule "cookbooks/keepalived"]
+	path = cookbooks/keepalived
+	url = https://github.com/rcbops-cookbooks/keepalived.git
+[submodule "cookbooks/kong"]
+	path = cookbooks/kong
+	url = https://github.com/rcbops-cookbooks/kong.git
+[submodule "cookbooks/memcached-openstack"]
+	path = cookbooks/memcached-openstack
+	url = https://github.com/rcbops-cookbooks/memcached-openstack.git
+[submodule "cookbooks/monit"]
+	path = cookbooks/monit
+	url = https://github.com/rcbops-cookbooks/monit.git
+[submodule "cookbooks/monitoring"]
+	path = cookbooks/monitoring
+	url = https://github.com/rcbops-cookbooks/monitoring.git
+[submodule "cookbooks/openstack-ha"]
+	path = cookbooks/openstack-ha
+	url = https://github.com/rcbops-cookbooks/openstack-ha.git
+[submodule "cookbooks/osops-utils"]
+	path = cookbooks/osops-utils
+	url = https://github.com/rcbops-cookbooks/osops-utils.git
+[submodule "cookbooks/sosreport"]
+	path = cookbooks/sosreport
+	url = https://github.com/rcbops-cookbooks/sosreport.git
+[submodule "cookbooks/sysctl"]
+	path = cookbooks/sysctl
+	url = https://github.com/rcbops-cookbooks/sysctl.git
+[submodule "cookbooks/corosync"]
+	path = cookbooks/corosync
+	url = https://github.com/rcbops-cookbooks/corosync.git
+[submodule "cookbooks/tempest"]
+	path = cookbooks/tempest
+	url = https://github.com/rcbops-cookbooks/tempest.git
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = https://github.com/rcbops-cookbooks/mysql.git
+[submodule "cookbooks/swift"]
+	path = cookbooks/swift
+	url = https://github.com/rcbops-cookbooks/swift.git
